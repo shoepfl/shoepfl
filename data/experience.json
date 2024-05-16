@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Research, PhD Student",
+        "company":"University of Stuttgart, Institute for Stochastics and Applications",
+        "summary":"Data integration, management and uncertainty quantification in the research group QuaLiperF.",
+        "range":"February 2023 - Present"
+    },
+    {
+        "role":"Stay abroad at Rohwer group",
+        "company":"Stellenbosch University, Stellenbosch, South Africa",
+        "summary":"Bayesian analysis of enzyme kinetic data.",
+        "range":"August 2023 - October 2023"
+    },
+    {
+        "role":"Research, PhD Student",
+        "company":"University of Stuttgart, Institute for Systems Theory and Automatic Control",
+        "summary":"Data integration, management and uncertainty quantification in the research group QuaLiperF.",
+        "range":"April 2021 - February 2023"
+    },
+    {
+        "role":"Internship",
+        "company":"AID Autoimmun Diagnostika GmbH, Straßberg",
+        "summary":"Development of a statistical method to monitor the quality of antigen batches in EliSpot diagnostics.",
+        "range":"2017"
+    }
+]

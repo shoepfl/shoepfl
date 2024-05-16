@@ -1,0 +1,22 @@
+[
+    {
+        "school":"[University of Stuttgart](https://www.uni-stuttgart.de/en/)",
+        "degree":"Master of Science",
+        "major":"Technical Biology",
+        "notes":"Master Thesis: Implementation and simulation of the DLC1 protein in TGFb induced Epithelial-to-Mesenchymal Transition (EMT)",
+        "range":"2018 - 2021"
+    },
+    {
+        "school":"[University of Stuttgart](https://www.uni-stuttgart.de/en/)",
+        "degree":"Bachelor of Science",
+        "major":"Technical Biology",
+        "notes":"",
+        "range":"2015 - 2018"
+    },
+    {
+        "school":"Secondary school of biotechnology, Albstadt",
+        "degree":"A-level",
+        "major":"Biotechnology",
+        "range":"2012 - 2015"
+    }
+]

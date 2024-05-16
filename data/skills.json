@@ -1,0 +1,17 @@
+[
+  {
+      "grouping":"Statistics and Modeling",
+      "skills":[ "Bayesian Statistics",{"name":"Bayesian Estimation","link":"https://doi.org/10.1037/a0029146"},"Frequentist Testing","Uncertainty Quantification", "PCA","Reproducible Modeling"]
+  },{
+      "grouping":"Languages, Operating Systems, Platforms & Tools",
+      "skills":[ "Python","Matlab","R","git","linux","bash", "Atlassian", {"name":"Synology","icon":"database"}]
+  },
+  {
+      "grouping":"Soft skills",
+      "skills":[ "Vision","Structured Thinking","Teamplayer"]
+  },
+  {
+      "grouping":"Knowledge",
+      "skills":[ "Understanding of Cellular Systems","Molecular Tumor Biology","Systems Medicine of the Liver"]
+  }
+]

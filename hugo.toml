@@ -1,0 +1,26 @@
+languageCode = 'en-us'
+title = 'Sebastian Höpfl'
+theme = 'hugo-resume'
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+
+[params]
+address = "71101 Schönaich, Germany"
+email = "sebastian.hoepfl@isa.uni-stuttgart.de"
+favicon = "/home.png"
+firstName = "Sebastian"
+lastName = "Höpfl"
+phone = "+49-711-685-66612"
+profileImage = "img/Sebastian_1.jpg"
+showQr = true
+showContact = true
+sections = ["publications", "creations", "contributions", "skills", "experience", "education"]
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/sebastian-hoepfl/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/shoepfl/"
+name = "GitHub"
